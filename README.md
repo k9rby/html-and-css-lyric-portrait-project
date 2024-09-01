@@ -1,1 +1,12 @@
-change anything u want. and also to attach the picture u have to place it inside the file of main.css and index.
+the html
+<head>
+    <link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+    <p>
+ 
+             your desired lyrics
+
+    </p>
+</body>
