@@ -1,0 +1,31 @@
+# html-and-css-lyric-portrait-project
+wowers
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+body {
+    margin: 0%;
+    padding: 0%;
+    max-width: 600px;
+    max-height: 600px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10000vh;
+    background: rgb(2, 2, 2)
+
+}
+
+p{
+    font-size: 4;
+    line-height: 1;
+    text-align: justify;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: url(your pic.);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+
+}
